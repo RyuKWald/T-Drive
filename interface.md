@@ -1,24 +1,6 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
 # 📺 Interface
 
-<div data-full-width="true">
-
-<figure><img src=".gitbook/assets/bandicam 2023-07-27 17-12-35-740.jpg" alt=""><figcaption><p>You may have a slightly different interface, e.g. less/more data.</p></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src=".gitbook/assets/bandicam 2023-07-27 17-12-35-740.jpg" alt=""><figcaption><p>You may have a slightly different interface, e.g. less/more data.</p></figcaption></figure></div>
 
 
 

@@ -1,16 +1,5 @@
 ---
 description: Here you will learn how to use the T-Drive app to its full potential!
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
 ---
 
 # 👋 T-Drive Manual

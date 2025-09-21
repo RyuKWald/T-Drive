@@ -1,18 +1,4 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
----
-
-# 🗃 File display
+# 🗃️ File display
 
 If you don't like the default file display, you can change to a different one. For example: Tiles
 
